@@ -11,6 +11,8 @@
 ![](https://img.shields.io/badge/npm-v10.2.0-informational?style=flat&logo=npm&logoColor=red&color=2bbc8a)
 ![](https://img.shields.io/badge/mysql-v8.0-informational?style=flat&logo=Mysql&logoColor=yellow&color=2bbc8a)
 ![](https://img.shields.io/badge/golang-v1.19.0-informational?style=flat&logo=Go&logoColor=blue&color=2bbc8a)
+![](https://img.shields.io/badge/gitlab-informational?style=flat&logo=gitlab&color=2bbc8a)
+![](https://img.shields.io/badge/uni_app-informational?style=flat&logo=PowerBI&logoColor=blue&color=2bbc8a)
 
 
 

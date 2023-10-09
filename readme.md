@@ -7,7 +7,7 @@
 - 🔭 &nbsp;一个三年工作经验的前端开发工程师 :wink:
 - 🌱 &nbsp;目前使用的技术栈是vue
 - 👨‍💻 &nbsp;目前正在学习 Go
-- 💬 &nbsp;联系我的VX：colewin_1024
+- 💬 &nbsp;联系weChat：colewin_1024
 - ⚡ &nbsp; [个人博客](https://jeckwell.info)
 
 
@@ -30,11 +30,23 @@
 -  <a target="_blank" href="http://115.238.103.228:9090">杭州红十字会干部民主评测系统</a>
 
 
-## 提交信息
+## 其他信息
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kevin-Jii&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Jii&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
 
-[![fengfengzhidao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin-Jii&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## 使用语言
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Jii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <br />
+  <summary><b>⚙️ 我的开发工具</b></summary>
+  	<ul>
+  	    <li><b>系统:</b> MacOS 13 Ventura</li>
+	    <li><b>笔记本: </b> Macbook Air M1</li>
+  	    <li><b>浏览器: </b> Chrome & Safari & Firefox</li>
+	    <li><b>终端: </b> ZSH: Oh My Zsh </li>
+	    <li><b>编辑器:</b> webStorm & vsCode & Hbuider</li>
+ 	    <li><b>其他工具:</b> Postman, Notion, Xshell, FinalShell</li>
+	</ul>
+</details>

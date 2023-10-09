@@ -32,7 +32,7 @@
 
 ## 提交信息
 
-[![fengfengzhidao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin-Jii&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![fengfengzhidao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin-Jii&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 使用语言

@@ -1,6 +1,11 @@
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+这里是我开源和学习记录的地方 :rofl:
 
-<h1 style="color: #377ef6">welcome from <a href="http://www.jeckwell.info" style="color: #c71d23">Kevin-Jii</a> </h1>
-
+- 🔭 &nbsp;一个三年工作经验的前端开发工程师 :wink:
+- 🌱 &nbsp;目前使用的技术栈是vue
+- 👨‍💻 &nbsp;目前正在学习 Go
+- 💬 &nbsp;联系我的VX：colewin_1024
+- ⚡ &nbsp; [个人博客](https://jeckwell.info)
 
 
 ## 技术栈

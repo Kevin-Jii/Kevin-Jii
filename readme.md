@@ -2,7 +2,7 @@
 这里是我开源和学习记录的地方 :rofl:
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="400px"/>
+<img src="./gifs/coder.gif" align="right" height="250" width="375" alt="GIF"/>
 
 - 🔭 &nbsp;一个三年工作经验的前端开发工程师 :wink:
 - 🌱 &nbsp;目前使用的技术栈是vue

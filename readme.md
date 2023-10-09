@@ -5,7 +5,7 @@
 
 ## 技术栈
 
-![](https://img.shields.io/badge/vue-v2.6.2-informational?style=flat&logo=vue.js&logoColor=green&color=2bbc8a)
+![](https://img.shields.io/badge/vue-v2.6.2/3.2.0-informational?style=flat&logo=vue.js&logoColor=green&color=2bbc8a)
 ![](https://img.shields.io/badge/JS-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=2bbc8a)
 ![](https://img.shields.io/badge/Axios-v0.19.0-informational?style=flat&logo=Axios&logoColor=skyblue&color=2bbc8a)
 ![](https://img.shields.io/badge/npm-v10.2.0-informational?style=flat&logo=npm&logoColor=red&color=2bbc8a)

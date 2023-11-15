@@ -6,7 +6,7 @@
 
 - 🔭 &nbsp;一个三年工作经验的前端开发工程师 :wink:
 - 🌱 &nbsp;目前使用的技术栈是vue
-- 👨‍💻 &nbsp;目前正在学习 Go
+- 👨‍💻 &nbsp;目前正在学习 Go Flutter
 - 💬 &nbsp;联系weChat：colewin_1024
 - ⚡ &nbsp; [个人博客](https://jeckwell.info)
 

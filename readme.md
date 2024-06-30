@@ -4,7 +4,7 @@
 
 <img src="./gifs/coder.gif" align="right" height="250" width="375" alt="GIF"/>
 
-- 🔭 &nbsp;一个四年工作经验的前端开发工程师 :wink:
+- 🔭 &nbsp;一个三年工作经验的前端开发工程师 :wink:
 - 🌱 &nbsp;目前使用的技术栈是vue
 - 👨‍💻 &nbsp;目前正在学习 Go Flutter
 - 💬 &nbsp;联系weChat：colewin_1024
@@ -28,6 +28,7 @@
 
 -  <a target="_blank" href="http://111.0.98.212:8090">健景科技项目管理平台</a>
 -  <a target="_blank" href="http://115.238.103.228:9090">杭州红十字会干部民主评测系统</a>
+-  <a target="_blank" href="http://111.0.98.212:8081">急诊急救管理平台</a>
 
 
 ## 其他信息
@@ -43,7 +44,7 @@
   <summary><b>⚙️ 我的开发工具</b></summary>
   	<ul>
   	    <li><b>系统:</b> MacOS 13 Ventura</li>
-	    <li><b>笔记本: </b> Macbook Air M1</li>
+	    <li><b>笔记本: </b> Macbook Pro M3</li>
   	    <li><b>浏览器: </b> Chrome & Safari & Firefox</li>
 	    <li><b>终端: </b> ZSH: Oh My Zsh </li>
 	    <li><b>编辑器:</b> webStorm & vsCode & Hbuider</li>

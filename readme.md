@@ -43,8 +43,8 @@
   <br />
   <summary><b>⚙️ 我的开发工具</b></summary>
   	<ul>
-  	    <li><b>系统:</b> MacOS 13 Ventura</li>
-	    <li><b>笔记本: </b> Macbook Pro M3</li>
+  	    <li><b>系统:</b> MacOS 13 Ventura & windows 11</li>
+	    <li><b>笔记本: </b> Macbook Pro M3 & windows 11</li>
   	    <li><b>浏览器: </b> Chrome & Safari & Firefox</li>
 	    <li><b>终端: </b> ZSH: Oh My Zsh </li>
 	    <li><b>编辑器:</b> webStorm & vsCode & Hbuider</li>

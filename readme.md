@@ -4,7 +4,7 @@
 
 <img src="./gifs/coder.gif" align="right" height="250" width="375" alt="GIF"/>
 
-- 🔭 &nbsp;一个三年工作经验的前端开发工程师 :wink:
+- 🔭 &nbsp;一个四年工作经验的前端开发工程师 :wink:
 - 🌱 &nbsp;目前使用的技术栈是vue
 - 👨‍💻 &nbsp;目前正在学习 Go Flutter
 - 💬 &nbsp;联系weChat：colewin_1024
